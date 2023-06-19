@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @v-rahul
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Supervised Learning Projects
+- 👀 I’m ...
 - 📫 You can reach me at vma.rahul@gmail.com
 
 <!---
