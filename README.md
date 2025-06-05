@@ -3,10 +3,10 @@
 
 <img align="right" width="370" height="290" src="Assets/Asset.png">
 
-### 🎯 What Drives Me
-- 🌟 Creating smart solutions with Embedded Systems, IoT, and AI/ML technologies
-- 💻 Passionate Verilog coder and digital design enthusiast
-- 🔧 Experimenting with Single Board Computers (SBCs) and AI applications
+###🎯 What Drives Me
+- 🌟 Creating smart solutions using Embedded Systems, IoT, and AI/ML technologies
+- 💻 Passionate about Verilog coding and digital design
+- 🔧 Enjoy experimenting with Single Board Computers (SBCs) and AI applications
 
 ---
 
